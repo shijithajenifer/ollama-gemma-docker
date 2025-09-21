@@ -18,10 +18,12 @@ Open **VS Code terminal** or any command line and run:
 ```bash
 git clone https://github.com/shijithajenifer/ollama-gemma-docker.git
 cd ollama-gemma-docker
+
 Step 2: Build and run Docker
 
 Make sure Docker Desktop is running, then execute:
       docker-compose up --build
+      
 Step 3: Access the API
 
 After the container starts, your LLM server will be running at:
